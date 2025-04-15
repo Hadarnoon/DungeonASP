@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dungeon Master - Login</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        @font-face {
+            font-family: 'DungeonFont';
+            src: url('fonts/dungeon.otf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        body {
+            font-family: 'DungeonFont', sans-serif;
+            background-color: #222;
+            color: white;
+        }
+
+        .navbar {
+            background-color: #111;
+        }
+
+        .navbar-brand {
+            color: #FFD700 !important;
+            font-weight: bold;
+        }
+
+        .nav-link {
+            color: white !important;
+        }
+
+        .container {
+            max-width: 500px;
+            background-color: #333;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+
+        .form-control {
+            background-color: #444;
+            color: white;
+            border: none;
+        }
+
+        .btn-custom {
+            background-color: #FFD700;
+            color: #222;
+            font-weight: bold;
+        }
+
+        #title {
+            justify-content: center;
+        }
+    </style>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            async function sha256Hash(password) {
+                const encoder = new TextEncoder();
+                const data = encoder.encode(password);
+                const hashBuffer = await crypto.subtle.digest('SHA-256', data);
+                const hashArray = Array.from(new Uint8Array(hashBuffer));
+                return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+            }
+
+            document.getElementById('loginForm').addEventListener('submit', async (e) => {
+                e.preventDefault();
+
+                try {
+                    const username = document.getElementById('username').value;
+                    const password = document.getElementById('password').value;
+
+                    if (!username || !password) {
+                        throw new Error("You must fill out all fields");
+                    }
+
+                    const hashedPassword = await sha256Hash(password);
+
+                    const response = await fetch('http://localhost:7000/api/Players/login', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                        body: JSON.stringify({
+                            Username: username,
+                            PasswordHash: hashedPassword
+                        })
+                    });
+
+                    const responseData = await response.json();
+
+                    if (!response.ok) {
+                        throw new Error(responseData.message || "Login Error");
+                    }
+
+                    localStorage.setItem('currentUser', JSON.stringify({
+                        username: responseData.username,
+                        level: responseData.level
+                    }));
+
+                    window.location.href = 'index.html';
+                } catch (error) {
+                    console.error('Error', error);
+                    document.getElementById('error-message').textContent = error.message;
+                }
+            });
+        });
+    </script>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container" id="title">
+            <a class="navbar-brand" href="index.html">Dungeon Master</a>
+        </div>
+    </nav>
+
+    <div class="container">
+        <h2 class="text-center">Login</h2>
+        <div id="error-message" class="text-danger text-center"></div>
+        <form id="loginForm" onsubmit="login(event)">
+            <div class="mb-3">
+                <label for="username" class="form-label">Username</label>
+                <input type="text" class="form-control" id="username" name="username" required>
+            </div>
+            <div class="mb-3">
+                <label for="password" class="form-label">Password</label>
+                <input type="password" class="form-control" id="password" name="pass" required>
+            </div>
+            <button type="submit" class="btn btn-custom w-100">Login</button>
+        </form>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/auth.js"></script>
+</body>
+</html>

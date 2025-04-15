@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dungeon Master - Scoreboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        @font-face {
+            font-family: 'DungeonFont';
+            src: url('fonts/dungeon.otf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        body {
+            font-family: 'DungeonFont', sans-serif;
+            background-color: #222;
+            color: white;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        .navbar {
+            background-color: #111;
+            padding: 0.5rem 1rem;
+        }
+
+        
+        .navbar .container {
+            gap: 2rem;
+        }
+ 
+        .navbar .btn-outline-warning {
+            border-color: #FFD700;
+            color: #FFD700;
+        }
+               
+        .navbar .btn-outline-warning:hover {   
+            background-color: #FFD700;
+            color: #222;
+        }
+
+        .navbar-brand {
+            color: #FFD700 !important;
+            font-weight: bold;
+        }
+
+        .nav-link {
+            color: white !important;
+        }
+
+        .nav-link-custom {
+            color: white !important;
+            text-decoration: none;
+            transition: opacity 0.3s ease;
+        }
+
+          
+        .nav-link-custom:hover {
+            opacity: 0.8;
+            text-decoration: underline;
+        }
+
+        #authLinks {
+            display: flex;
+            gap: 1.5rem;
+            align-items: center;
+        }
+
+        #userInfo {
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+        }
+
+        .table {
+            background-color: #333;
+            color: white;
+        }
+
+        .table th {
+            background-color: #444;
+            cursor: pointer;
+        }
+
+        .TableSort:hover {
+            background-color: #321;
+        }
+
+        .sorted-asc::after {
+            content: ' \2191';
+        }
+
+        .sorted-desc::after {
+            content: ' \2193';
+        }
+
+        footer {
+            margin-top: auto;
+            background-color: #111;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+          
+        footer a {
+            color: #FFD700;
+            text-decoration: none;
+        }
+    </style>
+    <script>
+        async function fetchScoreboardData() {
+            try {
+                const response = await fetch('/api/Players/scoreboard');
+                if (!response.ok) throw new Error('Network error');
+                const data = await response.json();
+                populateTable(data);
+            } catch (error) {
+                console.error('Error:', error);
+                document.querySelector('tbody').innerHTML =
+                    `<tr><td colspan="7" class="text-danger">Error loading data</td></tr>`;
+            }
+        }
+
+        function populateTable(data) {
+            const tbody = document.querySelector('tbody');
+            tbody.innerHTML = '';
+
+            data.forEach((row, index) => {
+                const tr = document.createElement('tr');
+                tr.innerHTML = `
+            <td>${index + 1}</td>
+            <td>${row.username}</td>
+            <td>${row.kills}</td>
+            <td>${row.deaths}</td>
+            <td>${row.level}</td>
+            <td>${Math.round(row.playtime / 60)}</td>
+            <td>${new Date(row.regDate).toLocaleDateString()}</td>
+        `;
+                tbody.appendChild(tr);
+            });
+        }
+
+        function sortTable(columnIndex) {
+            const table = document.querySelector("table");
+            const tbody = table.querySelector("tbody");
+            const rows = Array.from(tbody.rows);
+            const isAscending = table.dataset.sortColumn == columnIndex && table.dataset.sortOrder === "asc";
+
+            rows.sort((rowA, rowB) => {
+                let cellA = rowA.cells[columnIndex].textContent.trim();
+                let cellB = rowB.cells[columnIndex].textContent.trim();
+
+                if (columnIndex === 6) {
+                    const dateA = new Date(cellA).getTime();
+                    const dateB = new Date(cellB).getTime();
+                    return isAscending ? dateA - dateB : dateB - dateA;
+                }
+
+                const numA = parseFloat(cellA);
+                const numB = parseFloat(cellB);
+                if (!isNaN(numA) && !isNaN(numB)) {
+                    return isAscending ? numA - numB : numB - numA;
+                }
+
+                return isAscending
+                    ? cellA.localeCompare(cellB)
+                    : cellB.localeCompare(cellA);
+            });
+
+            table.dataset.sortColumn = columnIndex;
+            table.dataset.sortOrder = isAscending ? "desc" : "asc";
+
+            tbody.innerHTML = "";
+            rows.forEach((row, index) => {
+                row.cells[0].textContent = index + 1;
+                tbody.appendChild(row);
+            });
+
+            document.querySelectorAll("th").forEach(th => {
+                th.classList.remove("sorted-asc", "sorted-desc");
+                th.querySelector('.sort-indicator')?.remove();
+            });
+
+            const currentTh = document.querySelectorAll("th")[columnIndex];
+            currentTh.classList.add(isAscending ? "sorted-desc" : "sorted-asc");
+
+            const sortIcon = document.createElement('span');
+            sortIcon.className = 'sort-indicator ms-2';
+            sortIcon.innerHTML = isAscending ? '↑' : '↓';
+            currentTh.appendChild(sortIcon);
+        }
+
+        document.querySelectorAll('th').forEach((th, index) => {
+            if (index > 0) {
+                th.style.cursor = 'pointer';
+                th.addEventListener('click', () => sortTable(index));
+            }
+        });
+
+        document.addEventListener('DOMContentLoaded', fetchScoreboardData);
+    </script>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">Dungeon Master</a>
+
+            <div class="d-flex align-items-center gap-4">
+                <a class="nav-link-custom" href="scoreboard.html">Scoreboard</a>
+
+                <div class="d-flex">
+                    <div id="authLinks">
+                        <a class="nav-link-custom" href="register.html">Register</a>
+                        <a class="nav-link-custom" href="login.html">Login</a>
+                    </div>
+
+                    <div id="userInfo" style="display: none;">
+                        <span class="text-warning me-2">Welcome, <span id="loggedInUser"></span></span>
+                        <button class="btn btn-sm btn-outline-warning" onclick="logout()">Logout</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+        <h2 class="text-center">Scoreboard</h2>
+        <div class="table-responsive">
+            <table class="table table-dark table-striped text-center" data-sort-column="" data-sort-order="">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th onclick="sortTable(1)" class="TableSort">Username</th>
+                        <th onclick="sortTable(2)" class="TableSort">Kills</th>
+                        <th onclick="sortTable(3)" class="TableSort">Deaths</th>
+                        <th onclick="sortTable(4)" class="TableSort">Level</th>
+                        <th onclick="sortTable(5)" class="TableSort">Playtime (min)</th>
+                        <th onclick="sortTable(6)" class="TableSort">Registration Date</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2025 Dungeon Master</p>
+    </footer>
+
+    <script src="/js/auth.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', updateNavbar);
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
