@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Dungeon Master - Profile</title>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+	<style>
+		@font-face {
+			font-family: 'DungeonFont';
+			src: url('fonts/dungeon.otf') format('truetype');
+			font-weight: normal;
+			font-style: normal;
+		}
+
+		body {
+			font-family: 'DungeonFont', sans-serif;
+			background-color: #222;
+			color: white;
+			display: flex;
+			flex-direction: column;
+			min-height: 100vh;
+		}
+
+		.navbar {
+			background-color: #111;
+			padding: 0.5rem 1rem;
+		}
+
+
+		.navbar .container {
+			gap: 2rem;
+		}
+
+		.navbar .btn-outline-warning {
+			border-color: #FFD700;
+			color: #FFD700;
+		}
+
+		.navbar .btn-outline-warning:hover {
+			background-color: #FFD700;
+			color: #222;
+		}
+
+		.navbar-brand {
+			color: #FFD700 !important;
+			font-weight: bold;
+		}
+
+		.nav-link {
+			color: white !important;
+		}
+
+		.nav-link-custom {
+			color: white !important;
+			text-decoration: none;
+			transition: opacity 0.3s ease;
+		}
+
+
+		.nav-link-custom:hover {
+			opacity: 0.8;
+			text-decoration: underline;
+		}
+
+		#authLinks {
+			display: flex;
+			gap: 1.5rem;
+			align-items: center;
+		}
+
+		#userInfo {
+			display: flex;
+			gap: 1rem;
+			align-items: center;
+		}
+
+		#userInfo a.nav-link-custom {
+			color: #FFD700 !important;
+			text-decoration: none;
+			transition: color 0.3s ease;
+		}
+
+		#userInfo a.nav-link-custom:hover {
+			color: #ffea70 !important;
+			text-decoration: none;
+	}
+
+		.profile-card {
+			background-color: #333;
+			border-radius: 10px;
+			padding: 2rem;
+			margin-top: 2rem;
+		}
+
+		.profile-header {
+			color: #FFD700;
+			text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+			margin-bottom: 2rem;
+		}
+
+		.stat-item {
+			background-color: #444;
+			border: 1px solid #FFD700;
+			border-radius: 8px;
+			padding: 1.5rem;
+			margin: 1rem 0;
+			transition: transform 0.3s ease;
+		}
+
+		.stat-item:hover {
+			transform: translateY(-3px);
+			box-shadow: 0 4px 15px rgba(255, 215, 0, 0.2);
+		}
+
+		.stat-item h4 {
+			color: #FFD700;
+			margin-bottom: 0.5rem;
+		}
+
+		.stat-item span {
+			color: white;
+			font-size: 1.2rem;
+		}
+
+		footer {
+			margin-top: auto;
+			background-color: #111;
+			color: white;
+			padding: 20px;
+			text-align: center;
+		}
+
+
+		footer a {
+			color: #FFD700;
+			text-decoration: none;
+		}
+	</style>
+</head>
+<body>
+	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+		<div class="container">
+			<a class="navbar-brand" href="index.html">Dungeon Master</a>
+
+			<div class="d-flex align-items-center gap-4">
+				<a class="nav-link-custom" href="scoreboard.html">Scoreboard</a>
+
+				<div class="d-flex">
+					<div id="userInfo" style="display: none;">
+						<a href="profile.html" class="nav-link-custom">
+							Welcome, <span id="loggedInUser"></span>
+						</a>
+						<button class="btn btn-sm btn-outline-warning ms-2" onclick="logout()">Logout</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</nav>
+
+	<div class="container">
+		<div class="profile-card">
+			<h2 class="text-center mb-4">Player Profile</h2>
+			<div id="profileData">
+				<div class="stat-item">
+					<h4>Username: <span id="profileUsername"></span></h4>
+				</div>
+				<div class="stat-item">
+					<h4>Email: <span id="profileEmail"></span></h4>
+				</div>
+				<div class="stat-item">
+					<h4>Level: <span id="profileLevel"></span></h4>
+				</div>
+				<div class="stat-item">
+					<h4>Registration Date: <span id="profileRegDate"></span></h4>
+				</div>
+				<div class="stat-item">
+					<h4>Total Kills: <span id="profileKills"></span></h4>
+				</div>
+				<div class="stat-item">
+					<h4>Total Deaths: <span id="profileDeaths"></span></h4>
+				</div>
+				<div class="stat-item">
+					<h4>Total Playtime: <span id="profilePlaytime"></span> minutes</h4>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<footer>
+		<p>&copy; 2025 Dungeon Master</p>
+	</footer>
+
+	<script>
+		document.addEventListener('DOMContentLoaded', async () => {
+			const currentUser = JSON.parse(localStorage.getItem('currentUser'));
+			if (!currentUser?.username) {
+				window.location.href = 'login.html';
+				return;
+			}
+
+			try {
+				const response = await fetch(`/api/Players/profile/${currentUser.username}`);
+				if (!response.ok) throw new Error('Profile load error');
+				const data = await response.json();
+
+				document.getElementById('profileUsername').textContent = data.username;
+				document.getElementById('profileEmail').textContent = data.email;
+				document.getElementById('profileLevel').textContent = data.level;
+				document.getElementById('profileRegDate').textContent = new Date(data.regDate).toLocaleDateString();
+				document.getElementById('profileKills').textContent = data.totalKills;
+				document.getElementById('profileDeaths').textContent = data.totalDeaths;
+				document.getElementById('profilePlaytime').textContent = Math.round(data.totalPlaytime / 60);
+			} catch (error) {
+				console.error('Error:', error);
+				alert('Error loading profile data');
+			}
+		});
+	</script>
+
+	<script src="/js/auth.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

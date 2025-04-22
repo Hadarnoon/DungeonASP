@@ -47,21 +47,37 @@
             font-weight: bold;
         }
 
-        .nav-link {
-            color: white !important;
-        }
+		.nav-link-custom {
+			color: white !important;
+			text-decoration: none;
+			transition: opacity 0.3s ease;
+		}
 
-        .nav-link-custom {
-            color: white !important;
-            text-decoration: none;
-            transition: opacity 0.3s ease;
-        }
+		.nav-link-custom:hover {
+			color: #FFD700 !important;
+			opacity: 0.8;
+			text-decoration: none;
+		}
 
-          
-        .nav-link-custom:hover {
-            opacity: 0.8;
-            text-decoration: underline;
-        }
+		.navbar a:not(.navbar-brand):not(.text-warning),
+		.navbar .nav-link:not(.text-warning) {
+			color: white !important;
+		}
+
+		.navbar .nav-link-custom:hover,
+		.navbar .nav-link:hover {
+			color: #FFD700 !important;
+		}
+
+		.btn-outline-warning {
+			border-color: #FFD700 !important;
+			color: #FFD700 !important;
+		}
+
+		.btn-outline-warning:hover {
+			background-color: #FFD700 !important;
+			color: #222 !important;
+		}
 
         #authLinks {
             display: flex;
@@ -74,6 +90,17 @@
             gap: 1rem;
             align-items: center;
         }
+
+		#userInfo a.nav-link-custom {
+			color: #FFD700 !important;
+			text-decoration: none;
+			transition: color 0.3s ease;
+		}
+
+		#userInfo a.nav-link-custom:hover {
+			color: #ffea70 !important;
+			text-decoration: none;
+		}
 
         .table {
             background-color: #333;
@@ -211,15 +238,15 @@
 
             <div class="d-flex align-items-center gap-4">
                 <a class="nav-link-custom" href="scoreboard.html">Scoreboard</a>
-
                 <div class="d-flex">
                     <div id="authLinks">
                         <a class="nav-link-custom" href="register.html">Register</a>
                         <a class="nav-link-custom" href="login.html">Login</a>
                     </div>
-
                     <div id="userInfo" style="display: none;">
-                        <span class="text-warning me-2">Welcome, <span id="loggedInUser"></span></span>
+                        <a href="profile.html" class="text-warning me-2 nav-link-custom">
+                            Welcome, <span id="loggedInUser"></span>
+                        </a>
                         <button class="btn btn-sm btn-outline-warning" onclick="logout()">Logout</button>
                     </div>
                 </div>

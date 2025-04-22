@@ -144,6 +144,38 @@ namespace dungeonMaster_final.Controllers
             return Ok(player);
         }
 
+        [HttpGet("profile/{username}")]
+        public async Task<ActionResult<PlayerProfileDto>> GetUserProfile(string username)
+        {
+            var player = await _context.Players
+                .Include(p => p.MatchLogs)
+                .FirstOrDefaultAsync(p => p.Username == username);
+
+            if (player == null) return NotFound();
+
+            return new PlayerProfileDto
+            {
+                Username = player.Username,
+                Email = player.Email,
+                Level = player.Level,
+                RegDate = player.RegDate,
+                TotalKills = player.MatchLogs.Sum(m => m.Kills),
+                TotalDeaths = player.MatchLogs.Count,
+                TotalPlaytime = player.MatchLogs.Sum(m => m.MatchDuration)
+            };
+        }
+
+        public class PlayerProfileDto
+        {
+            public string Username { get; set; }
+            public string Email { get; set; }
+            public int Level { get; set; }
+            public DateTime RegDate { get; set; }
+            public int TotalKills { get; set; }
+            public int TotalDeaths { get; set; }
+            public int TotalPlaytime { get; set; }
+        }
+
         public class LoginDto
         {
             public string Username { get; set; }
@@ -195,4 +227,5 @@ namespace dungeonMaster_final.Controllers
         public string username { get; set; } = null!;
         public string passwordHash { get; set; } = null!;
     }
+    
 }

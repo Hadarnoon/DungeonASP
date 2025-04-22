@@ -24,7 +24,26 @@ function logout() {
     window.location.href = 'index.html';
 }
 
-document.addEventListener('DOMContentLoaded', updateNavbar);
+function checkAuth() {
+    const currentUser = JSON.parse(localStorage.getItem('currentUser'));
+    const isProfilePage = window.location.pathname.includes('profile.html');
+
+    if (isProfilePage && !currentUser) {
+        window.location.href = 'login.html';
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    updateNavbar();
+    checkAuth();
+
+    if (!window.location.pathname.includes('login.html') &&
+        !window.location.pathname.includes('register.html')) {
+        const scoreboardLink = document.querySelector('a[href="scoreboard.html"]');
+        if (scoreboardLink) scoreboardLink.style.display = 'block';
+    }
+});
+
 
 window.updateNavbar = updateNavbar;
 window.logout = logout;

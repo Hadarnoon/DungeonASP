@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dungeonMaster_final")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42892483ffcf79580116194982f408176b02dc3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("dungeonMaster_final")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dungeonMaster_final")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

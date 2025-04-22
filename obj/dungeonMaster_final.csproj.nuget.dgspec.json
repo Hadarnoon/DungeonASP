@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\c20oroszp\\Documents\\GitHub\\DungeonASP\\dungeonMaster_final.csproj": {}
+    "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\dungeonMaster_final.csproj": {}
   },
   "projects": {
-    "C:\\Users\\c20oroszp\\Documents\\GitHub\\DungeonASP\\dungeonMaster_final.csproj": {
+    "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\dungeonMaster_final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\c20oroszp\\Documents\\GitHub\\DungeonASP\\dungeonMaster_final.csproj",
+        "projectUniqueName": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\dungeonMaster_final.csproj",
         "projectName": "dungeonMaster_final",
-        "projectPath": "C:\\Users\\c20oroszp\\Documents\\GitHub\\DungeonASP\\dungeonMaster_final.csproj",
-        "packagesPath": "C:\\Users\\c20oroszp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\c20oroszp\\Documents\\GitHub\\DungeonASP\\obj\\",
+        "projectPath": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\dungeonMaster_final.csproj",
+        "packagesPath": "C:\\Users\\tomio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\c20oroszp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tomio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,7 +38,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -92,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

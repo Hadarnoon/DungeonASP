@@ -94,13 +94,15 @@
                     const responseData = await response.json();
 
                     if (!response.ok) {
-                        throw new Error(responseData.message || "Login Error");
+                        throw new Error("Invalid username or password!");
                     }
 
-                    localStorage.setItem('currentUser', JSON.stringify({
-                        username: responseData.username,
-                        level: responseData.level
-                    }));
+					localStorage.setItem('currentUser', JSON.stringify({
+						username: responseData.username,
+						level: responseData.level,
+						email: responseData.email,
+						regDate: responseData.regDate
+					}));
 
                     window.location.href = 'index.html';
                 } catch (error) {

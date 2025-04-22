@@ -1,0 +1,340 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/admin_panel/delete_player.php">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin_panel\delete_player.php'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Uo\u002BlMShsMFg\u002Blqaidz5cOTsaMa93G9MO8i6v4qapF50="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"302"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022Uo\u002BlMShsMFg\u002Blqaidz5cOTsaMa93G9MO8i6v4qapF50=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/admin_panel/delete_player.php.meta">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin_panel\delete_player.php.meta'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wfEtY77ysbK8M9TRAaRhUQ7ZEmYVA1rrsmXwBH2kSYk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"162"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022wfEtY77ysbK8M9TRAaRhUQ7ZEmYVA1rrsmXwBH2kSYk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/admin_panel/delete_player.php.zfoq4zqico.meta">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin_panel\delete_player.php.meta'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zfoq4zqico"},{"Name":"integrity","Value":"sha256-wfEtY77ysbK8M9TRAaRhUQ7ZEmYVA1rrsmXwBH2kSYk="},{"Name":"label","Value":"_content/dungeonMaster_final/admin_panel/delete_player.php.meta"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"162"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022wfEtY77ysbK8M9TRAaRhUQ7ZEmYVA1rrsmXwBH2kSYk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/admin_panel/delete_player.q27eojf9o8.php">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin_panel\delete_player.php'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q27eojf9o8"},{"Name":"integrity","Value":"sha256-Uo\u002BlMShsMFg\u002Blqaidz5cOTsaMa93G9MO8i6v4qapF50="},{"Name":"label","Value":"_content/dungeonMaster_final/admin_panel/delete_player.php"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"302"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022Uo\u002BlMShsMFg\u002Blqaidz5cOTsaMa93G9MO8i6v4qapF50=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/admin_panel/index.gbdrx6dgy3.php">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin_panel\index.php'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gbdrx6dgy3"},{"Name":"integrity","Value":"sha256-1BrpfTeptSnUlFUDKO\u002BV\u002Bh\u002BkhLkrGdG\u002BgxDFP5M1WDY="},{"Name":"label","Value":"_content/dungeonMaster_final/admin_panel/index.php"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3131"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00221BrpfTeptSnUlFUDKO\u002BV\u002Bh\u002BkhLkrGdG\u002BgxDFP5M1WDY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/admin_panel/index.php">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin_panel\index.php'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1BrpfTeptSnUlFUDKO\u002BV\u002Bh\u002BkhLkrGdG\u002BgxDFP5M1WDY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3131"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00221BrpfTeptSnUlFUDKO\u002BV\u002Bh\u002BkhLkrGdG\u002BgxDFP5M1WDY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/admin_panel/index.php.5pv9t5jij1.meta">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin_panel\index.php.meta'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5pv9t5jij1"},{"Name":"integrity","Value":"sha256-uSl5bjmz0gNrMhilW5dEo53rJS5wnoHfRezTAn20VNc="},{"Name":"label","Value":"_content/dungeonMaster_final/admin_panel/index.php.meta"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"162"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022uSl5bjmz0gNrMhilW5dEo53rJS5wnoHfRezTAn20VNc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/admin_panel/index.php.meta">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin_panel\index.php.meta'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uSl5bjmz0gNrMhilW5dEo53rJS5wnoHfRezTAn20VNc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"162"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022uSl5bjmz0gNrMhilW5dEo53rJS5wnoHfRezTAn20VNc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/admin_panel/mainPanel.php">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin_panel\mainPanel.php'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KTlcMMaAJGqq\u002Bdqy43s\u002B4XbVnOakhQApNlrupgp5LHg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7291"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022KTlcMMaAJGqq\u002Bdqy43s\u002B4XbVnOakhQApNlrupgp5LHg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/admin_panel/mainPanel.php.jk70j8vwsp.meta">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin_panel\mainPanel.php.meta'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jk70j8vwsp"},{"Name":"integrity","Value":"sha256-Uyn3dzF/dVwytojX\u002Br6wDfqblUBiTJ0ww2EtsDP6bXo="},{"Name":"label","Value":"_content/dungeonMaster_final/admin_panel/mainPanel.php.meta"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"162"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022Uyn3dzF/dVwytojX\u002Br6wDfqblUBiTJ0ww2EtsDP6bXo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/admin_panel/mainPanel.php.meta">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin_panel\mainPanel.php.meta'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Uyn3dzF/dVwytojX\u002Br6wDfqblUBiTJ0ww2EtsDP6bXo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"162"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022Uyn3dzF/dVwytojX\u002Br6wDfqblUBiTJ0ww2EtsDP6bXo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/admin_panel/mainPanel.ve8p0sy7gl.php">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin_panel\mainPanel.php'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ve8p0sy7gl"},{"Name":"integrity","Value":"sha256-KTlcMMaAJGqq\u002Bdqy43s\u002B4XbVnOakhQApNlrupgp5LHg="},{"Name":"label","Value":"_content/dungeonMaster_final/admin_panel/mainPanel.php"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7291"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022KTlcMMaAJGqq\u002Bdqy43s\u002B4XbVnOakhQApNlrupgp5LHg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/admin_panel/update_player.hppatt2fxx.php">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin_panel\update_player.php'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hppatt2fxx"},{"Name":"integrity","Value":"sha256-W65TtSS8Z73xjrdi3x35gPhdhYwh3JX60ZfDAUCZ\u002BRM="},{"Name":"label","Value":"_content/dungeonMaster_final/admin_panel/update_player.php"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"473"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022W65TtSS8Z73xjrdi3x35gPhdhYwh3JX60ZfDAUCZ\u002BRM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/admin_panel/update_player.php">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin_panel\update_player.php'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-W65TtSS8Z73xjrdi3x35gPhdhYwh3JX60ZfDAUCZ\u002BRM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"473"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022W65TtSS8Z73xjrdi3x35gPhdhYwh3JX60ZfDAUCZ\u002BRM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/admin_panel/update_player.php.meta">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin_panel\update_player.php.meta'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pDvZV7oXcixhW771teY9EYutDX2tbXtnyHPoc3tcc6w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"162"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022pDvZV7oXcixhW771teY9EYutDX2tbXtnyHPoc3tcc6w=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/admin_panel/update_player.php.sell4eeybr.meta">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin_panel\update_player.php.meta'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sell4eeybr"},{"Name":"integrity","Value":"sha256-pDvZV7oXcixhW771teY9EYutDX2tbXtnyHPoc3tcc6w="},{"Name":"label","Value":"_content/dungeonMaster_final/admin_panel/update_player.php.meta"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"162"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022pDvZV7oXcixhW771teY9EYutDX2tbXtnyHPoc3tcc6w=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/admin_panel/users.i8sljp51q1.php">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin_panel\users.php'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"i8sljp51q1"},{"Name":"integrity","Value":"sha256-MgkIJhhz9l94oQdcuGDA\u002BbQzea7cci0z5ZMtnj1Yv1o="},{"Name":"label","Value":"_content/dungeonMaster_final/admin_panel/users.php"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8393"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022MgkIJhhz9l94oQdcuGDA\u002BbQzea7cci0z5ZMtnj1Yv1o=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/admin_panel/users.php">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin_panel\users.php'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MgkIJhhz9l94oQdcuGDA\u002BbQzea7cci0z5ZMtnj1Yv1o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8393"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022MgkIJhhz9l94oQdcuGDA\u002BbQzea7cci0z5ZMtnj1Yv1o=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/admin_panel/users.php.lhw9rffsfj.meta">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin_panel\users.php.meta'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lhw9rffsfj"},{"Name":"integrity","Value":"sha256-uZMmYcQ2Wh4GIm68zd6EzXPLdKiGmpJji\u002BcFN6zk5sU="},{"Name":"label","Value":"_content/dungeonMaster_final/admin_panel/users.php.meta"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"162"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022uZMmYcQ2Wh4GIm68zd6EzXPLdKiGmpJji\u002BcFN6zk5sU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/admin_panel/users.php.meta">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin_panel\users.php.meta'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uZMmYcQ2Wh4GIm68zd6EzXPLdKiGmpJji\u002BcFN6zk5sU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"162"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022uZMmYcQ2Wh4GIm68zd6EzXPLdKiGmpJji\u002BcFN6zk5sU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/fonts/dungeon.djj4vput4n.otf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\dungeon.otf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"djj4vput4n"},{"Name":"integrity","Value":"sha256-FyGHEy6ipk\u002B3q8dHEVFnTzq/vDokgAQQAnAcbqYCq7A="},{"Name":"label","Value":"_content/dungeonMaster_final/fonts/dungeon.otf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"108472"},{"Name":"Content-Type","Value":"font/otf"},{"Name":"ETag","Value":"\u0022FyGHEy6ipk\u002B3q8dHEVFnTzq/vDokgAQQAnAcbqYCq7A=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/fonts/dungeon.otf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\dungeon.otf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FyGHEy6ipk\u002B3q8dHEVFnTzq/vDokgAQQAnAcbqYCq7A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"108472"},{"Name":"Content-Type","Value":"font/otf"},{"Name":"ETag","Value":"\u0022FyGHEy6ipk\u002B3q8dHEVFnTzq/vDokgAQQAnAcbqYCq7A=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/fonts/dungeon.otf.meta">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\dungeon.otf.meta'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bqc0K96d08X2X2zU9er5nHo12ltoho3xWeI1\u002B2U5aIA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"497"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022bqc0K96d08X2X2zU9er5nHo12ltoho3xWeI1\u002B2U5aIA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/fonts/dungeon.otf.uta729y4q0.meta">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\dungeon.otf.meta'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uta729y4q0"},{"Name":"integrity","Value":"sha256-bqc0K96d08X2X2zU9er5nHo12ltoho3xWeI1\u002B2U5aIA="},{"Name":"label","Value":"_content/dungeonMaster_final/fonts/dungeon.otf.meta"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"497"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022bqc0K96d08X2X2zU9er5nHo12ltoho3xWeI1\u002B2U5aIA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/fonts/dungeonback.jzz0s1vh0u.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\dungeonback.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jzz0s1vh0u"},{"Name":"integrity","Value":"sha256-LyY2aXAwBtxt5QHmkeoa0z9G0buOZtLknWF6DZZ7x3g="},{"Name":"label","Value":"_content/dungeonMaster_final/fonts/dungeonback.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"48820"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022LyY2aXAwBtxt5QHmkeoa0z9G0buOZtLknWF6DZZ7x3g=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/fonts/dungeonback.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\dungeonback.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LyY2aXAwBtxt5QHmkeoa0z9G0buOZtLknWF6DZZ7x3g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"48820"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022LyY2aXAwBtxt5QHmkeoa0z9G0buOZtLknWF6DZZ7x3g=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/fonts/dungeonback.ttf.98prrs6n8q.meta">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\dungeonback.ttf.meta'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"98prrs6n8q"},{"Name":"integrity","Value":"sha256-ecMjfy0K43EVuwLR/G7o6aHsM2a16uvUTwPXdNH56C4="},{"Name":"label","Value":"_content/dungeonMaster_final/fonts/dungeonback.ttf.meta"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"494"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022ecMjfy0K43EVuwLR/G7o6aHsM2a16uvUTwPXdNH56C4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/fonts/dungeonback.ttf.meta">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\dungeonback.ttf.meta'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ecMjfy0K43EVuwLR/G7o6aHsM2a16uvUTwPXdNH56C4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"494"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022ecMjfy0K43EVuwLR/G7o6aHsM2a16uvUTwPXdNH56C4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/images/carousel1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\carousel1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mTyFGIAzjjEQvSpoMw0SBLyAiZkMTZ/RNi6/k5pol0o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"72688"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mTyFGIAzjjEQvSpoMw0SBLyAiZkMTZ/RNi6/k5pol0o=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/images/carousel1.jpg.meta">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\carousel1.jpg.meta'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tgLM/U02mpe9dpVvIt4Fksjb6hsbF04TaM205YtLmh4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3442"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022tgLM/U02mpe9dpVvIt4Fksjb6hsbF04TaM205YtLmh4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/images/carousel1.jpg.yu3v029gt8.meta">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\carousel1.jpg.meta'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yu3v029gt8"},{"Name":"integrity","Value":"sha256-tgLM/U02mpe9dpVvIt4Fksjb6hsbF04TaM205YtLmh4="},{"Name":"label","Value":"_content/dungeonMaster_final/images/carousel1.jpg.meta"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3442"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022tgLM/U02mpe9dpVvIt4Fksjb6hsbF04TaM205YtLmh4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/images/carousel1.l5lmc7aigw.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\carousel1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l5lmc7aigw"},{"Name":"integrity","Value":"sha256-mTyFGIAzjjEQvSpoMw0SBLyAiZkMTZ/RNi6/k5pol0o="},{"Name":"label","Value":"_content/dungeonMaster_final/images/carousel1.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"72688"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mTyFGIAzjjEQvSpoMw0SBLyAiZkMTZ/RNi6/k5pol0o=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/images/carousel2.40s38rrpuq.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\carousel2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"40s38rrpuq"},{"Name":"integrity","Value":"sha256-fAuA2NwGNYXzOIhv717yUQjbpt84LNoXYjR4Hl1CGMA="},{"Name":"label","Value":"_content/dungeonMaster_final/images/carousel2.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"110817"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022fAuA2NwGNYXzOIhv717yUQjbpt84LNoXYjR4Hl1CGMA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/images/carousel2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\carousel2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fAuA2NwGNYXzOIhv717yUQjbpt84LNoXYjR4Hl1CGMA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"110817"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022fAuA2NwGNYXzOIhv717yUQjbpt84LNoXYjR4Hl1CGMA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/images/carousel2.jpg.meta">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\carousel2.jpg.meta'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DDUMVBRk0E8jqaLhT4/mpqh7QY9\u002BckHmEqlioquv2uc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3442"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022DDUMVBRk0E8jqaLhT4/mpqh7QY9\u002BckHmEqlioquv2uc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/images/carousel2.jpg.o1xznjgoon.meta">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\carousel2.jpg.meta'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o1xznjgoon"},{"Name":"integrity","Value":"sha256-DDUMVBRk0E8jqaLhT4/mpqh7QY9\u002BckHmEqlioquv2uc="},{"Name":"label","Value":"_content/dungeonMaster_final/images/carousel2.jpg.meta"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3442"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022DDUMVBRk0E8jqaLhT4/mpqh7QY9\u002BckHmEqlioquv2uc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/images/carousel3.5akuzbxhek.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\carousel3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5akuzbxhek"},{"Name":"integrity","Value":"sha256-LSFNfM3WmAgaQudrXOdY6GNKqAhhoGI1hLSclKL\u002BOtY="},{"Name":"label","Value":"_content/dungeonMaster_final/images/carousel3.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"117727"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022LSFNfM3WmAgaQudrXOdY6GNKqAhhoGI1hLSclKL\u002BOtY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/images/carousel3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\carousel3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LSFNfM3WmAgaQudrXOdY6GNKqAhhoGI1hLSclKL\u002BOtY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"117727"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022LSFNfM3WmAgaQudrXOdY6GNKqAhhoGI1hLSclKL\u002BOtY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/images/carousel3.jpg.meta">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\carousel3.jpg.meta'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wSK9\u002B9Tmo1kdAEACy\u002BacjkE9MPVN6QtRDKhS3OCKHM8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3442"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022wSK9\u002B9Tmo1kdAEACy\u002BacjkE9MPVN6QtRDKhS3OCKHM8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/images/carousel3.jpg.pymuz0lgaz.meta">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\carousel3.jpg.meta'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pymuz0lgaz"},{"Name":"integrity","Value":"sha256-wSK9\u002B9Tmo1kdAEACy\u002BacjkE9MPVN6QtRDKhS3OCKHM8="},{"Name":"label","Value":"_content/dungeonMaster_final/images/carousel3.jpg.meta"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3442"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022wSK9\u002B9Tmo1kdAEACy\u002BacjkE9MPVN6QtRDKhS3OCKHM8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/images/carousel4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\carousel4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tGq\u002BFZqLNUIxypkbtx8uXJgg/ntYhrMH6uDtQXcH2w8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"373366"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022tGq\u002BFZqLNUIxypkbtx8uXJgg/ntYhrMH6uDtQXcH2w8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/images/carousel4.jpg.9fr6axrjim.meta">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\carousel4.jpg.meta'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9fr6axrjim"},{"Name":"integrity","Value":"sha256-q1E8JUg5qp6n6wc4R/MUepgSkg0Ez8ajGBdZ9tncguY="},{"Name":"label","Value":"_content/dungeonMaster_final/images/carousel4.jpg.meta"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3442"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022q1E8JUg5qp6n6wc4R/MUepgSkg0Ez8ajGBdZ9tncguY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/images/carousel4.jpg.meta">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\carousel4.jpg.meta'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-q1E8JUg5qp6n6wc4R/MUepgSkg0Ez8ajGBdZ9tncguY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3442"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022q1E8JUg5qp6n6wc4R/MUepgSkg0Ez8ajGBdZ9tncguY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/images/carousel4.suq7vubqbz.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\carousel4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"suq7vubqbz"},{"Name":"integrity","Value":"sha256-tGq\u002BFZqLNUIxypkbtx8uXJgg/ntYhrMH6uDtQXcH2w8="},{"Name":"label","Value":"_content/dungeonMaster_final/images/carousel4.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"373366"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022tGq\u002BFZqLNUIxypkbtx8uXJgg/ntYhrMH6uDtQXcH2w8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/index.hh2wtu3mz3.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hh2wtu3mz3"},{"Name":"integrity","Value":"sha256-awYtK8aIRyuUJYcCruOf9PE8vtsAYKpN5tLsSp9ts40="},{"Name":"label","Value":"_content/dungeonMaster_final/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8950"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022awYtK8aIRyuUJYcCruOf9PE8vtsAYKpN5tLsSp9ts40=\u0022"},{"Name":"Last-Modified","Value":"Tue, 22 Apr 2025 09:35:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-awYtK8aIRyuUJYcCruOf9PE8vtsAYKpN5tLsSp9ts40="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8950"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022awYtK8aIRyuUJYcCruOf9PE8vtsAYKpN5tLsSp9ts40=\u0022"},{"Name":"Last-Modified","Value":"Tue, 22 Apr 2025 09:35:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/js/auth.fiqnsxpod8.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\auth.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fiqnsxpod8"},{"Name":"integrity","Value":"sha256-9zXZe17BbdATI9nSD69VcL28F\u002BuUxqo4E8hXGcsSaSY="},{"Name":"label","Value":"_content/dungeonMaster_final/js/auth.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1004"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00229zXZe17BbdATI9nSD69VcL28F\u002BuUxqo4E8hXGcsSaSY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/js/auth.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\auth.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9zXZe17BbdATI9nSD69VcL28F\u002BuUxqo4E8hXGcsSaSY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1004"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00229zXZe17BbdATI9nSD69VcL28F\u002BuUxqo4E8hXGcsSaSY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/login.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\login.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-M6n1TTf8bWzYmm/uY4GOLZSFHB9b9HMljAFUrng1elI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4868"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022M6n1TTf8bWzYmm/uY4GOLZSFHB9b9HMljAFUrng1elI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/login.xbe9y55ngl.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\login.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xbe9y55ngl"},{"Name":"integrity","Value":"sha256-M6n1TTf8bWzYmm/uY4GOLZSFHB9b9HMljAFUrng1elI="},{"Name":"label","Value":"_content/dungeonMaster_final/login.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4868"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022M6n1TTf8bWzYmm/uY4GOLZSFHB9b9HMljAFUrng1elI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/profile.6cu7tvl8jl.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profile.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6cu7tvl8jl"},{"Name":"integrity","Value":"sha256-Vv4biMKa8cljze/upPDgI\u002BXpWRL5\u002BwJjPrZknS9DC4U="},{"Name":"label","Value":"_content/dungeonMaster_final/profile.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3715"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Vv4biMKa8cljze/upPDgI\u002BXpWRL5\u002BwJjPrZknS9DC4U=\u0022"},{"Name":"Last-Modified","Value":"Tue, 22 Apr 2025 09:38:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/profile.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profile.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Vv4biMKa8cljze/upPDgI\u002BXpWRL5\u002BwJjPrZknS9DC4U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3715"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Vv4biMKa8cljze/upPDgI\u002BXpWRL5\u002BwJjPrZknS9DC4U=\u0022"},{"Name":"Last-Modified","Value":"Tue, 22 Apr 2025 09:38:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/register.9ckc9by52q.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\register.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9ckc9by52q"},{"Name":"integrity","Value":"sha256-\u002BQb2KFOZjh0nKX2WA56ETzRUca2o8KfuOnsuSDMLVgA="},{"Name":"label","Value":"_content/dungeonMaster_final/register.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6103"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022\u002BQb2KFOZjh0nKX2WA56ETzRUca2o8KfuOnsuSDMLVgA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/register.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\register.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BQb2KFOZjh0nKX2WA56ETzRUca2o8KfuOnsuSDMLVgA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6103"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022\u002BQb2KFOZjh0nKX2WA56ETzRUca2o8KfuOnsuSDMLVgA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:20:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/scoreboard.fpdul45v2b.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\scoreboard.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fpdul45v2b"},{"Name":"integrity","Value":"sha256-HYrye4in8MrpN6HThiTRW1w8LswtA24qBDFIa9dEVtg="},{"Name":"label","Value":"_content/dungeonMaster_final/scoreboard.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8662"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022HYrye4in8MrpN6HThiTRW1w8LswtA24qBDFIa9dEVtg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 22 Apr 2025 09:35:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dungeonMaster_final/scoreboard.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\scoreboard.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HYrye4in8MrpN6HThiTRW1w8LswtA24qBDFIa9dEVtg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8662"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022HYrye4in8MrpN6HThiTRW1w8LswtA24qBDFIa9dEVtg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 22 Apr 2025 09:35:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
