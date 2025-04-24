@@ -105,15 +105,6 @@
     <script>
         document.addEventListener('DOMContentLoaded', () => {
             const errorMessage = document.getElementById('error-message');
-
-            async function sha256Hash(password) {
-                const encoder = new TextEncoder();
-                const data = encoder.encode(password);
-                const hashBuffer = await crypto.subtle.digest('SHA-256', data);
-                const hashArray = Array.from(new Uint8Array(hashBuffer));
-                return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
-            }
-
             document.getElementById('registerForm').addEventListener('submit', async (e) => {
                 e.preventDefault();
                 errorMessage.classList.add('d-none');
@@ -128,15 +119,13 @@
                 }
 
                 try {
-                    const hashedPassword = await sha256Hash(password);
-
                     const response = await fetch('http://localhost:7000/api/Players', {
                         method: 'POST',
                         headers: { 'Content-Type': 'application/json' },
                         body: JSON.stringify({
                             Username: document.getElementById('username').value,
                             Email: document.getElementById('email').value,
-                            PasswordHash: hashedPassword
+                            PasswordHash: password
                         })
                     });
 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dwEr8+HcTucTCP0A2dfCBOK3nsUgoexHzmm1OLvi1WQ=",
+  "Hash": "kep8MYq187h259BKFogA7VcS+b5k1jQFVEU73Mqfmc0=",
   "Source": "dungeonMaster_final",
   "BasePath": "_content/dungeonMaster_final",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "dungeonMaster_final\\wwwroot",
       "Source": "dungeonMaster_final",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\tomio\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "Identity": "C:\\Users\\Fonok ur\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\tomio\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\",
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "AssetKind": "All",
@@ -31,17 +31,15 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "25o87uqmvr",
-      "Integrity": "Nuu0BHvGBlwN6c5FSVjV9yxX0YPfwg3ufdOucRJCOz0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tomio\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Fonok ur\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\tomio\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\QuickGrid.razor.js",
+      "Identity": "C:\\Users\\Fonok ur\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\QuickGrid.razor.js",
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\tomio\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\",
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "QuickGrid.razor.js",
       "AssetKind": "All",
@@ -52,19 +50,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "eu7w3d5g1a",
-      "Integrity": "tnamWuQ2F5I2J8hbtBt4/9i8Mb2y2o+9Tepj5tUrSdU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tomio\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\QuickGrid.razor.js"
+      "OriginalItemSpec": "C:\\Users\\Fonok ur\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\obj\\Debug\\net8.0\\scopedcss\\bundle\\dungeonMaster_final.styles.css",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\obj\\Debug\\net8.0\\scopedcss\\bundle\\dungeonMaster_final.styles.css",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "dungeonMaster_final#[.{fingerprint}]?.styles.css",
+      "RelativePath": "dungeonMaster_final.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -73,3061 +69,541 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "02jfxhbwsz",
-      "Integrity": "yJzMRujk3CbSbBe5hogvoEpcGbz0ThnTl058XcI1svI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\obj\\Debug\\net8.0\\scopedcss\\bundle\\dungeonMaster_final.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\obj\\Debug\\net8.0\\scopedcss\\bundle\\dungeonMaster_final.styles.css"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\delete_player.php",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\delete_player.php",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "admin_panel/delete_player#[.{fingerprint}]?.php",
+      "RelativePath": "admin_panel/delete_player.php",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "q27eojf9o8",
-      "Integrity": "Uo+lMShsMFg+lqaidz5cOTsaMa93G9MO8i6v4qapF50=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin_panel\\delete_player.php"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\delete_player.php.meta",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\delete_player.php.meta",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "admin_panel/delete_player.php#[.{fingerprint}]?.meta",
+      "RelativePath": "admin_panel/delete_player.php.meta",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zfoq4zqico",
-      "Integrity": "wfEtY77ysbK8M9TRAaRhUQ7ZEmYVA1rrsmXwBH2kSYk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin_panel\\delete_player.php.meta"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\index.php",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\index.php",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "admin_panel/index#[.{fingerprint}]?.php",
+      "RelativePath": "admin_panel/index.php",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "gbdrx6dgy3",
-      "Integrity": "1BrpfTeptSnUlFUDKO+V+h+khLkrGdG+gxDFP5M1WDY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin_panel\\index.php"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\index.php.meta",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\index.php.meta",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "admin_panel/index.php#[.{fingerprint}]?.meta",
+      "RelativePath": "admin_panel/index.php.meta",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5pv9t5jij1",
-      "Integrity": "uSl5bjmz0gNrMhilW5dEo53rJS5wnoHfRezTAn20VNc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin_panel\\index.php.meta"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\mainPanel.php",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\mainPanel.php",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "admin_panel/mainPanel#[.{fingerprint}]?.php",
+      "RelativePath": "admin_panel/mainPanel.php",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ve8p0sy7gl",
-      "Integrity": "KTlcMMaAJGqq+dqy43s+4XbVnOakhQApNlrupgp5LHg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin_panel\\mainPanel.php"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\mainPanel.php.meta",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\mainPanel.php.meta",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "admin_panel/mainPanel.php#[.{fingerprint}]?.meta",
+      "RelativePath": "admin_panel/mainPanel.php.meta",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jk70j8vwsp",
-      "Integrity": "Uyn3dzF/dVwytojX+r6wDfqblUBiTJ0ww2EtsDP6bXo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin_panel\\mainPanel.php.meta"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\update_player.php",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\update_player.php",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "admin_panel/update_player#[.{fingerprint}]?.php",
+      "RelativePath": "admin_panel/update_player.php",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hppatt2fxx",
-      "Integrity": "W65TtSS8Z73xjrdi3x35gPhdhYwh3JX60ZfDAUCZ+RM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin_panel\\update_player.php"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\update_player.php.meta",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\update_player.php.meta",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "admin_panel/update_player.php#[.{fingerprint}]?.meta",
+      "RelativePath": "admin_panel/update_player.php.meta",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "sell4eeybr",
-      "Integrity": "pDvZV7oXcixhW771teY9EYutDX2tbXtnyHPoc3tcc6w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin_panel\\update_player.php.meta"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\users.php",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\users.php",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "admin_panel/users#[.{fingerprint}]?.php",
+      "RelativePath": "admin_panel/users.php",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "i8sljp51q1",
-      "Integrity": "MgkIJhhz9l94oQdcuGDA+bQzea7cci0z5ZMtnj1Yv1o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin_panel\\users.php"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\users.php.meta",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\users.php.meta",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "admin_panel/users.php#[.{fingerprint}]?.meta",
+      "RelativePath": "admin_panel/users.php.meta",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "lhw9rffsfj",
-      "Integrity": "uZMmYcQ2Wh4GIm68zd6EzXPLdKiGmpJji+cFN6zk5sU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin_panel\\users.php.meta"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\fonts\\dungeon.otf",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\fonts\\dungeon.otf",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "fonts/dungeon#[.{fingerprint}]?.otf",
+      "RelativePath": "fonts/dungeon.otf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "djj4vput4n",
-      "Integrity": "FyGHEy6ipk+3q8dHEVFnTzq/vDokgAQQAnAcbqYCq7A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\fonts\\dungeon.otf"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\fonts\\dungeon.otf.meta",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\fonts\\dungeon.otf.meta",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "fonts/dungeon.otf#[.{fingerprint}]?.meta",
+      "RelativePath": "fonts/dungeon.otf.meta",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "uta729y4q0",
-      "Integrity": "bqc0K96d08X2X2zU9er5nHo12ltoho3xWeI1+2U5aIA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\fonts\\dungeon.otf.meta"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\fonts\\dungeonback.ttf",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\fonts\\dungeonback.ttf",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "fonts/dungeonback#[.{fingerprint}]?.ttf",
+      "RelativePath": "fonts/dungeonback.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jzz0s1vh0u",
-      "Integrity": "LyY2aXAwBtxt5QHmkeoa0z9G0buOZtLknWF6DZZ7x3g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\fonts\\dungeonback.ttf"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\fonts\\dungeonback.ttf.meta",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\fonts\\dungeonback.ttf.meta",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "fonts/dungeonback.ttf#[.{fingerprint}]?.meta",
+      "RelativePath": "fonts/dungeonback.ttf.meta",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "98prrs6n8q",
-      "Integrity": "ecMjfy0K43EVuwLR/G7o6aHsM2a16uvUTwPXdNH56C4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\fonts\\dungeonback.ttf.meta"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel1.jpg",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel1.jpg",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "images/carousel1#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/carousel1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "l5lmc7aigw",
-      "Integrity": "mTyFGIAzjjEQvSpoMw0SBLyAiZkMTZ/RNi6/k5pol0o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\carousel1.jpg"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel1.jpg.meta",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel1.jpg.meta",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "images/carousel1.jpg#[.{fingerprint}]?.meta",
+      "RelativePath": "images/carousel1.jpg.meta",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "yu3v029gt8",
-      "Integrity": "tgLM/U02mpe9dpVvIt4Fksjb6hsbF04TaM205YtLmh4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\carousel1.jpg.meta"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel2.jpg",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel2.jpg",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "images/carousel2#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/carousel2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "40s38rrpuq",
-      "Integrity": "fAuA2NwGNYXzOIhv717yUQjbpt84LNoXYjR4Hl1CGMA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\carousel2.jpg"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel2.jpg.meta",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel2.jpg.meta",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "images/carousel2.jpg#[.{fingerprint}]?.meta",
+      "RelativePath": "images/carousel2.jpg.meta",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "o1xznjgoon",
-      "Integrity": "DDUMVBRk0E8jqaLhT4/mpqh7QY9+ckHmEqlioquv2uc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\carousel2.jpg.meta"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel3.jpg",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel3.jpg",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "images/carousel3#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/carousel3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5akuzbxhek",
-      "Integrity": "LSFNfM3WmAgaQudrXOdY6GNKqAhhoGI1hLSclKL+OtY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\carousel3.jpg"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel3.jpg.meta",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel3.jpg.meta",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "images/carousel3.jpg#[.{fingerprint}]?.meta",
+      "RelativePath": "images/carousel3.jpg.meta",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "pymuz0lgaz",
-      "Integrity": "wSK9+9Tmo1kdAEACy+acjkE9MPVN6QtRDKhS3OCKHM8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\carousel3.jpg.meta"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel4.jpg",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel4.jpg",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "images/carousel4#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/carousel4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "suq7vubqbz",
-      "Integrity": "tGq+FZqLNUIxypkbtx8uXJgg/ntYhrMH6uDtQXcH2w8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\carousel4.jpg"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel4.jpg.meta",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel4.jpg.meta",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "images/carousel4.jpg#[.{fingerprint}]?.meta",
+      "RelativePath": "images/carousel4.jpg.meta",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9fr6axrjim",
-      "Integrity": "q1E8JUg5qp6n6wc4R/MUepgSkg0Ez8ajGBdZ9tncguY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\carousel4.jpg.meta"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\index.html",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "index#[.{fingerprint}]?.html",
+      "RelativePath": "index.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hh2wtu3mz3",
-      "Integrity": "awYtK8aIRyuUJYcCruOf9PE8vtsAYKpN5tLsSp9ts40=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\js\\auth.js",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\js\\auth.js",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "js/auth#[.{fingerprint}]?.js",
+      "RelativePath": "js/auth.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "fiqnsxpod8",
-      "Integrity": "9zXZe17BbdATI9nSD69VcL28F+uUxqo4E8hXGcsSaSY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\auth.js"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\login.html",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\login.html",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "login#[.{fingerprint}]?.html",
+      "RelativePath": "login.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xbe9y55ngl",
-      "Integrity": "M6n1TTf8bWzYmm/uY4GOLZSFHB9b9HMljAFUrng1elI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\login.html"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\profile.html",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\profile.html",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "profile#[.{fingerprint}]?.html",
+      "RelativePath": "profile.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6cu7tvl8jl",
-      "Integrity": "Vv4biMKa8cljze/upPDgI+XpWRL5+wJjPrZknS9DC4U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\profile.html"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\register.html",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\register.html",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "register#[.{fingerprint}]?.html",
+      "RelativePath": "register.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9ckc9by52q",
-      "Integrity": "+Qb2KFOZjh0nKX2WA56ETzRUca2o8KfuOnsuSDMLVgA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\register.html"
     },
     {
-      "Identity": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\scoreboard.html",
+      "Identity": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\scoreboard.html",
       "SourceId": "dungeonMaster_final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\",
       "BasePath": "_content/dungeonMaster_final",
-      "RelativePath": "scoreboard#[.{fingerprint}]?.html",
+      "RelativePath": "scoreboard.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "fpdul45v2b",
-      "Integrity": "HYrye4in8MrpN6HThiTRW1w8LswtA24qBDFIa9dEVtg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\scoreboard.html"
-    }
-  ],
-  "Endpoints": [
-    {
-      "Route": "_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
-      "AssetFile": "C:\\Users\\tomio\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8251"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Nuu0BHvGBlwN6c5FSVjV9yxX0YPfwg3ufdOucRJCOz0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 23:57:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Nuu0BHvGBlwN6c5FSVjV9yxX0YPfwg3ufdOucRJCOz0="
-        }
-      ]
-    },
-    {
-      "Route": "_content/Microsoft.AspNetCore.Components.QuickGrid/QuickGrid.razor.js",
-      "AssetFile": "C:\\Users\\tomio\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\QuickGrid.razor.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2563"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tnamWuQ2F5I2J8hbtBt4/9i8Mb2y2o+9Tepj5tUrSdU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 23:38:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-tnamWuQ2F5I2J8hbtBt4/9i8Mb2y2o+9Tepj5tUrSdU="
-        }
-      ]
-    },
-    {
-      "Route": "admin_panel/delete_player.php",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\delete_player.php",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "302"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Uo+lMShsMFg+lqaidz5cOTsaMa93G9MO8i6v4qapF50=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Uo+lMShsMFg+lqaidz5cOTsaMa93G9MO8i6v4qapF50="
-        }
-      ]
-    },
-    {
-      "Route": "admin_panel/delete_player.php.meta",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\delete_player.php.meta",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wfEtY77ysbK8M9TRAaRhUQ7ZEmYVA1rrsmXwBH2kSYk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wfEtY77ysbK8M9TRAaRhUQ7ZEmYVA1rrsmXwBH2kSYk="
-        }
-      ]
-    },
-    {
-      "Route": "admin_panel/delete_player.php.zfoq4zqico.meta",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\delete_player.php.meta",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wfEtY77ysbK8M9TRAaRhUQ7ZEmYVA1rrsmXwBH2kSYk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zfoq4zqico"
-        },
-        {
-          "Name": "label",
-          "Value": "admin_panel/delete_player.php.meta"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-wfEtY77ysbK8M9TRAaRhUQ7ZEmYVA1rrsmXwBH2kSYk="
-        }
-      ]
-    },
-    {
-      "Route": "admin_panel/delete_player.q27eojf9o8.php",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\delete_player.php",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "302"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Uo+lMShsMFg+lqaidz5cOTsaMa93G9MO8i6v4qapF50=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "q27eojf9o8"
-        },
-        {
-          "Name": "label",
-          "Value": "admin_panel/delete_player.php"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Uo+lMShsMFg+lqaidz5cOTsaMa93G9MO8i6v4qapF50="
-        }
-      ]
-    },
-    {
-      "Route": "admin_panel/index.gbdrx6dgy3.php",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\index.php",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3131"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"1BrpfTeptSnUlFUDKO+V+h+khLkrGdG+gxDFP5M1WDY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gbdrx6dgy3"
-        },
-        {
-          "Name": "label",
-          "Value": "admin_panel/index.php"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-1BrpfTeptSnUlFUDKO+V+h+khLkrGdG+gxDFP5M1WDY="
-        }
-      ]
-    },
-    {
-      "Route": "admin_panel/index.php",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\index.php",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3131"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"1BrpfTeptSnUlFUDKO+V+h+khLkrGdG+gxDFP5M1WDY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-1BrpfTeptSnUlFUDKO+V+h+khLkrGdG+gxDFP5M1WDY="
-        }
-      ]
-    },
-    {
-      "Route": "admin_panel/index.php.5pv9t5jij1.meta",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\index.php.meta",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"uSl5bjmz0gNrMhilW5dEo53rJS5wnoHfRezTAn20VNc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5pv9t5jij1"
-        },
-        {
-          "Name": "label",
-          "Value": "admin_panel/index.php.meta"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-uSl5bjmz0gNrMhilW5dEo53rJS5wnoHfRezTAn20VNc="
-        }
-      ]
-    },
-    {
-      "Route": "admin_panel/index.php.meta",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\index.php.meta",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"uSl5bjmz0gNrMhilW5dEo53rJS5wnoHfRezTAn20VNc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-uSl5bjmz0gNrMhilW5dEo53rJS5wnoHfRezTAn20VNc="
-        }
-      ]
-    },
-    {
-      "Route": "admin_panel/mainPanel.php",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\mainPanel.php",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7291"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KTlcMMaAJGqq+dqy43s+4XbVnOakhQApNlrupgp5LHg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KTlcMMaAJGqq+dqy43s+4XbVnOakhQApNlrupgp5LHg="
-        }
-      ]
-    },
-    {
-      "Route": "admin_panel/mainPanel.php.jk70j8vwsp.meta",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\mainPanel.php.meta",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Uyn3dzF/dVwytojX+r6wDfqblUBiTJ0ww2EtsDP6bXo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "jk70j8vwsp"
-        },
-        {
-          "Name": "label",
-          "Value": "admin_panel/mainPanel.php.meta"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Uyn3dzF/dVwytojX+r6wDfqblUBiTJ0ww2EtsDP6bXo="
-        }
-      ]
-    },
-    {
-      "Route": "admin_panel/mainPanel.php.meta",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\mainPanel.php.meta",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Uyn3dzF/dVwytojX+r6wDfqblUBiTJ0ww2EtsDP6bXo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Uyn3dzF/dVwytojX+r6wDfqblUBiTJ0ww2EtsDP6bXo="
-        }
-      ]
-    },
-    {
-      "Route": "admin_panel/mainPanel.ve8p0sy7gl.php",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\mainPanel.php",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7291"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KTlcMMaAJGqq+dqy43s+4XbVnOakhQApNlrupgp5LHg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ve8p0sy7gl"
-        },
-        {
-          "Name": "label",
-          "Value": "admin_panel/mainPanel.php"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-KTlcMMaAJGqq+dqy43s+4XbVnOakhQApNlrupgp5LHg="
-        }
-      ]
-    },
-    {
-      "Route": "admin_panel/update_player.hppatt2fxx.php",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\update_player.php",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "473"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"W65TtSS8Z73xjrdi3x35gPhdhYwh3JX60ZfDAUCZ+RM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hppatt2fxx"
-        },
-        {
-          "Name": "label",
-          "Value": "admin_panel/update_player.php"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-W65TtSS8Z73xjrdi3x35gPhdhYwh3JX60ZfDAUCZ+RM="
-        }
-      ]
-    },
-    {
-      "Route": "admin_panel/update_player.php",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\update_player.php",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "473"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"W65TtSS8Z73xjrdi3x35gPhdhYwh3JX60ZfDAUCZ+RM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-W65TtSS8Z73xjrdi3x35gPhdhYwh3JX60ZfDAUCZ+RM="
-        }
-      ]
-    },
-    {
-      "Route": "admin_panel/update_player.php.meta",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\update_player.php.meta",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pDvZV7oXcixhW771teY9EYutDX2tbXtnyHPoc3tcc6w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-pDvZV7oXcixhW771teY9EYutDX2tbXtnyHPoc3tcc6w="
-        }
-      ]
-    },
-    {
-      "Route": "admin_panel/update_player.php.sell4eeybr.meta",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\update_player.php.meta",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pDvZV7oXcixhW771teY9EYutDX2tbXtnyHPoc3tcc6w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "sell4eeybr"
-        },
-        {
-          "Name": "label",
-          "Value": "admin_panel/update_player.php.meta"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pDvZV7oXcixhW771teY9EYutDX2tbXtnyHPoc3tcc6w="
-        }
-      ]
-    },
-    {
-      "Route": "admin_panel/users.i8sljp51q1.php",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\users.php",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8393"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MgkIJhhz9l94oQdcuGDA+bQzea7cci0z5ZMtnj1Yv1o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "i8sljp51q1"
-        },
-        {
-          "Name": "label",
-          "Value": "admin_panel/users.php"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-MgkIJhhz9l94oQdcuGDA+bQzea7cci0z5ZMtnj1Yv1o="
-        }
-      ]
-    },
-    {
-      "Route": "admin_panel/users.php",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\users.php",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8393"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MgkIJhhz9l94oQdcuGDA+bQzea7cci0z5ZMtnj1Yv1o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-MgkIJhhz9l94oQdcuGDA+bQzea7cci0z5ZMtnj1Yv1o="
-        }
-      ]
-    },
-    {
-      "Route": "admin_panel/users.php.lhw9rffsfj.meta",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\users.php.meta",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"uZMmYcQ2Wh4GIm68zd6EzXPLdKiGmpJji+cFN6zk5sU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "lhw9rffsfj"
-        },
-        {
-          "Name": "label",
-          "Value": "admin_panel/users.php.meta"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-uZMmYcQ2Wh4GIm68zd6EzXPLdKiGmpJji+cFN6zk5sU="
-        }
-      ]
-    },
-    {
-      "Route": "admin_panel/users.php.meta",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\users.php.meta",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"uZMmYcQ2Wh4GIm68zd6EzXPLdKiGmpJji+cFN6zk5sU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-uZMmYcQ2Wh4GIm68zd6EzXPLdKiGmpJji+cFN6zk5sU="
-        }
-      ]
-    },
-    {
-      "Route": "dungeonMaster_final.02jfxhbwsz.styles.css",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\obj\\Debug\\net8.0\\scopedcss\\bundle\\dungeonMaster_final.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "122"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yJzMRujk3CbSbBe5hogvoEpcGbz0ThnTl058XcI1svI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Link",
-          "Value": "<_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css>; rel=\"preload\"; as=\"style\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "02jfxhbwsz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-yJzMRujk3CbSbBe5hogvoEpcGbz0ThnTl058XcI1svI="
-        },
-        {
-          "Name": "label",
-          "Value": "dungeonMaster_final.styles.css"
-        }
-      ]
-    },
-    {
-      "Route": "dungeonMaster_final.styles.css",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\obj\\Debug\\net8.0\\scopedcss\\bundle\\dungeonMaster_final.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "122"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yJzMRujk3CbSbBe5hogvoEpcGbz0ThnTl058XcI1svI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Link",
-          "Value": "<_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css>; rel=\"preload\"; as=\"style\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-yJzMRujk3CbSbBe5hogvoEpcGbz0ThnTl058XcI1svI="
-        }
-      ]
-    },
-    {
-      "Route": "fonts/dungeon.djj4vput4n.otf",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\fonts\\dungeon.otf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "108472"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "font/otf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FyGHEy6ipk+3q8dHEVFnTzq/vDokgAQQAnAcbqYCq7A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "djj4vput4n"
-        },
-        {
-          "Name": "label",
-          "Value": "fonts/dungeon.otf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-FyGHEy6ipk+3q8dHEVFnTzq/vDokgAQQAnAcbqYCq7A="
-        }
-      ]
-    },
-    {
-      "Route": "fonts/dungeon.otf",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\fonts\\dungeon.otf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "108472"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "font/otf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FyGHEy6ipk+3q8dHEVFnTzq/vDokgAQQAnAcbqYCq7A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-FyGHEy6ipk+3q8dHEVFnTzq/vDokgAQQAnAcbqYCq7A="
-        }
-      ]
-    },
-    {
-      "Route": "fonts/dungeon.otf.meta",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\fonts\\dungeon.otf.meta",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "497"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bqc0K96d08X2X2zU9er5nHo12ltoho3xWeI1+2U5aIA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-bqc0K96d08X2X2zU9er5nHo12ltoho3xWeI1+2U5aIA="
-        }
-      ]
-    },
-    {
-      "Route": "fonts/dungeon.otf.uta729y4q0.meta",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\fonts\\dungeon.otf.meta",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "497"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bqc0K96d08X2X2zU9er5nHo12ltoho3xWeI1+2U5aIA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "uta729y4q0"
-        },
-        {
-          "Name": "label",
-          "Value": "fonts/dungeon.otf.meta"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-bqc0K96d08X2X2zU9er5nHo12ltoho3xWeI1+2U5aIA="
-        }
-      ]
-    },
-    {
-      "Route": "fonts/dungeonback.jzz0s1vh0u.ttf",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\fonts\\dungeonback.ttf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "48820"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/x-font-ttf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LyY2aXAwBtxt5QHmkeoa0z9G0buOZtLknWF6DZZ7x3g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "jzz0s1vh0u"
-        },
-        {
-          "Name": "label",
-          "Value": "fonts/dungeonback.ttf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LyY2aXAwBtxt5QHmkeoa0z9G0buOZtLknWF6DZZ7x3g="
-        }
-      ]
-    },
-    {
-      "Route": "fonts/dungeonback.ttf",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\fonts\\dungeonback.ttf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "48820"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/x-font-ttf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LyY2aXAwBtxt5QHmkeoa0z9G0buOZtLknWF6DZZ7x3g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-LyY2aXAwBtxt5QHmkeoa0z9G0buOZtLknWF6DZZ7x3g="
-        }
-      ]
-    },
-    {
-      "Route": "fonts/dungeonback.ttf.98prrs6n8q.meta",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\fonts\\dungeonback.ttf.meta",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "494"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ecMjfy0K43EVuwLR/G7o6aHsM2a16uvUTwPXdNH56C4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "98prrs6n8q"
-        },
-        {
-          "Name": "label",
-          "Value": "fonts/dungeonback.ttf.meta"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ecMjfy0K43EVuwLR/G7o6aHsM2a16uvUTwPXdNH56C4="
-        }
-      ]
-    },
-    {
-      "Route": "fonts/dungeonback.ttf.meta",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\fonts\\dungeonback.ttf.meta",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "494"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ecMjfy0K43EVuwLR/G7o6aHsM2a16uvUTwPXdNH56C4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ecMjfy0K43EVuwLR/G7o6aHsM2a16uvUTwPXdNH56C4="
-        }
-      ]
-    },
-    {
-      "Route": "images/carousel1.jpg",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel1.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "72688"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mTyFGIAzjjEQvSpoMw0SBLyAiZkMTZ/RNi6/k5pol0o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-mTyFGIAzjjEQvSpoMw0SBLyAiZkMTZ/RNi6/k5pol0o="
-        }
-      ]
-    },
-    {
-      "Route": "images/carousel1.jpg.meta",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel1.jpg.meta",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3442"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tgLM/U02mpe9dpVvIt4Fksjb6hsbF04TaM205YtLmh4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-tgLM/U02mpe9dpVvIt4Fksjb6hsbF04TaM205YtLmh4="
-        }
-      ]
-    },
-    {
-      "Route": "images/carousel1.jpg.yu3v029gt8.meta",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel1.jpg.meta",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3442"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tgLM/U02mpe9dpVvIt4Fksjb6hsbF04TaM205YtLmh4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "yu3v029gt8"
-        },
-        {
-          "Name": "label",
-          "Value": "images/carousel1.jpg.meta"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-tgLM/U02mpe9dpVvIt4Fksjb6hsbF04TaM205YtLmh4="
-        }
-      ]
-    },
-    {
-      "Route": "images/carousel1.l5lmc7aigw.jpg",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel1.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "72688"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mTyFGIAzjjEQvSpoMw0SBLyAiZkMTZ/RNi6/k5pol0o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "l5lmc7aigw"
-        },
-        {
-          "Name": "label",
-          "Value": "images/carousel1.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-mTyFGIAzjjEQvSpoMw0SBLyAiZkMTZ/RNi6/k5pol0o="
-        }
-      ]
-    },
-    {
-      "Route": "images/carousel2.40s38rrpuq.jpg",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel2.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "110817"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fAuA2NwGNYXzOIhv717yUQjbpt84LNoXYjR4Hl1CGMA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "40s38rrpuq"
-        },
-        {
-          "Name": "label",
-          "Value": "images/carousel2.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-fAuA2NwGNYXzOIhv717yUQjbpt84LNoXYjR4Hl1CGMA="
-        }
-      ]
-    },
-    {
-      "Route": "images/carousel2.jpg",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel2.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "110817"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fAuA2NwGNYXzOIhv717yUQjbpt84LNoXYjR4Hl1CGMA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fAuA2NwGNYXzOIhv717yUQjbpt84LNoXYjR4Hl1CGMA="
-        }
-      ]
-    },
-    {
-      "Route": "images/carousel2.jpg.meta",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel2.jpg.meta",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3442"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DDUMVBRk0E8jqaLhT4/mpqh7QY9+ckHmEqlioquv2uc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-DDUMVBRk0E8jqaLhT4/mpqh7QY9+ckHmEqlioquv2uc="
-        }
-      ]
-    },
-    {
-      "Route": "images/carousel2.jpg.o1xznjgoon.meta",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel2.jpg.meta",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3442"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DDUMVBRk0E8jqaLhT4/mpqh7QY9+ckHmEqlioquv2uc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "o1xznjgoon"
-        },
-        {
-          "Name": "label",
-          "Value": "images/carousel2.jpg.meta"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-DDUMVBRk0E8jqaLhT4/mpqh7QY9+ckHmEqlioquv2uc="
-        }
-      ]
-    },
-    {
-      "Route": "images/carousel3.5akuzbxhek.jpg",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel3.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "117727"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LSFNfM3WmAgaQudrXOdY6GNKqAhhoGI1hLSclKL+OtY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5akuzbxhek"
-        },
-        {
-          "Name": "label",
-          "Value": "images/carousel3.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LSFNfM3WmAgaQudrXOdY6GNKqAhhoGI1hLSclKL+OtY="
-        }
-      ]
-    },
-    {
-      "Route": "images/carousel3.jpg",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel3.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "117727"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LSFNfM3WmAgaQudrXOdY6GNKqAhhoGI1hLSclKL+OtY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-LSFNfM3WmAgaQudrXOdY6GNKqAhhoGI1hLSclKL+OtY="
-        }
-      ]
-    },
-    {
-      "Route": "images/carousel3.jpg.meta",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel3.jpg.meta",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3442"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wSK9+9Tmo1kdAEACy+acjkE9MPVN6QtRDKhS3OCKHM8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wSK9+9Tmo1kdAEACy+acjkE9MPVN6QtRDKhS3OCKHM8="
-        }
-      ]
-    },
-    {
-      "Route": "images/carousel3.jpg.pymuz0lgaz.meta",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel3.jpg.meta",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3442"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wSK9+9Tmo1kdAEACy+acjkE9MPVN6QtRDKhS3OCKHM8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pymuz0lgaz"
-        },
-        {
-          "Name": "label",
-          "Value": "images/carousel3.jpg.meta"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-wSK9+9Tmo1kdAEACy+acjkE9MPVN6QtRDKhS3OCKHM8="
-        }
-      ]
-    },
-    {
-      "Route": "images/carousel4.jpg",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel4.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "373366"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tGq+FZqLNUIxypkbtx8uXJgg/ntYhrMH6uDtQXcH2w8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-tGq+FZqLNUIxypkbtx8uXJgg/ntYhrMH6uDtQXcH2w8="
-        }
-      ]
-    },
-    {
-      "Route": "images/carousel4.jpg.9fr6axrjim.meta",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel4.jpg.meta",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3442"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"q1E8JUg5qp6n6wc4R/MUepgSkg0Ez8ajGBdZ9tncguY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9fr6axrjim"
-        },
-        {
-          "Name": "label",
-          "Value": "images/carousel4.jpg.meta"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-q1E8JUg5qp6n6wc4R/MUepgSkg0Ez8ajGBdZ9tncguY="
-        }
-      ]
-    },
-    {
-      "Route": "images/carousel4.jpg.meta",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel4.jpg.meta",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3442"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"q1E8JUg5qp6n6wc4R/MUepgSkg0Ez8ajGBdZ9tncguY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-q1E8JUg5qp6n6wc4R/MUepgSkg0Ez8ajGBdZ9tncguY="
-        }
-      ]
-    },
-    {
-      "Route": "images/carousel4.suq7vubqbz.jpg",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\images\\carousel4.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "373366"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tGq+FZqLNUIxypkbtx8uXJgg/ntYhrMH6uDtQXcH2w8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "suq7vubqbz"
-        },
-        {
-          "Name": "label",
-          "Value": "images/carousel4.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-tGq+FZqLNUIxypkbtx8uXJgg/ntYhrMH6uDtQXcH2w8="
-        }
-      ]
-    },
-    {
-      "Route": "index.hh2wtu3mz3.html",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8950"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"awYtK8aIRyuUJYcCruOf9PE8vtsAYKpN5tLsSp9ts40=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 09:35:03 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hh2wtu3mz3"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-awYtK8aIRyuUJYcCruOf9PE8vtsAYKpN5tLsSp9ts40="
-        }
-      ]
-    },
-    {
-      "Route": "index.html",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8950"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"awYtK8aIRyuUJYcCruOf9PE8vtsAYKpN5tLsSp9ts40=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 09:35:03 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-awYtK8aIRyuUJYcCruOf9PE8vtsAYKpN5tLsSp9ts40="
-        }
-      ]
-    },
-    {
-      "Route": "js/auth.fiqnsxpod8.js",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\js\\auth.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1004"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9zXZe17BbdATI9nSD69VcL28F+uUxqo4E8hXGcsSaSY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fiqnsxpod8"
-        },
-        {
-          "Name": "label",
-          "Value": "js/auth.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-9zXZe17BbdATI9nSD69VcL28F+uUxqo4E8hXGcsSaSY="
-        }
-      ]
-    },
-    {
-      "Route": "js/auth.js",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\js\\auth.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1004"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9zXZe17BbdATI9nSD69VcL28F+uUxqo4E8hXGcsSaSY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9zXZe17BbdATI9nSD69VcL28F+uUxqo4E8hXGcsSaSY="
-        }
-      ]
-    },
-    {
-      "Route": "login.html",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\login.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4868"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"M6n1TTf8bWzYmm/uY4GOLZSFHB9b9HMljAFUrng1elI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-M6n1TTf8bWzYmm/uY4GOLZSFHB9b9HMljAFUrng1elI="
-        }
-      ]
-    },
-    {
-      "Route": "login.xbe9y55ngl.html",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\login.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4868"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"M6n1TTf8bWzYmm/uY4GOLZSFHB9b9HMljAFUrng1elI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xbe9y55ngl"
-        },
-        {
-          "Name": "label",
-          "Value": "login.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-M6n1TTf8bWzYmm/uY4GOLZSFHB9b9HMljAFUrng1elI="
-        }
-      ]
-    },
-    {
-      "Route": "profile.6cu7tvl8jl.html",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\profile.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3715"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Vv4biMKa8cljze/upPDgI+XpWRL5+wJjPrZknS9DC4U=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 09:38:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6cu7tvl8jl"
-        },
-        {
-          "Name": "label",
-          "Value": "profile.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Vv4biMKa8cljze/upPDgI+XpWRL5+wJjPrZknS9DC4U="
-        }
-      ]
-    },
-    {
-      "Route": "profile.html",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\profile.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3715"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Vv4biMKa8cljze/upPDgI+XpWRL5+wJjPrZknS9DC4U=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 09:38:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Vv4biMKa8cljze/upPDgI+XpWRL5+wJjPrZknS9DC4U="
-        }
-      ]
-    },
-    {
-      "Route": "register.9ckc9by52q.html",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\register.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6103"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+Qb2KFOZjh0nKX2WA56ETzRUca2o8KfuOnsuSDMLVgA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9ckc9by52q"
-        },
-        {
-          "Name": "label",
-          "Value": "register.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-+Qb2KFOZjh0nKX2WA56ETzRUca2o8KfuOnsuSDMLVgA="
-        }
-      ]
-    },
-    {
-      "Route": "register.html",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\register.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6103"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+Qb2KFOZjh0nKX2WA56ETzRUca2o8KfuOnsuSDMLVgA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 09:20:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-+Qb2KFOZjh0nKX2WA56ETzRUca2o8KfuOnsuSDMLVgA="
-        }
-      ]
-    },
-    {
-      "Route": "scoreboard.fpdul45v2b.html",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\scoreboard.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8662"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HYrye4in8MrpN6HThiTRW1w8LswtA24qBDFIa9dEVtg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 09:35:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fpdul45v2b"
-        },
-        {
-          "Name": "label",
-          "Value": "scoreboard.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-HYrye4in8MrpN6HThiTRW1w8LswtA24qBDFIa9dEVtg="
-        }
-      ]
-    },
-    {
-      "Route": "scoreboard.html",
-      "AssetFile": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\scoreboard.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8662"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HYrye4in8MrpN6HThiTRW1w8LswtA24qBDFIa9dEVtg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 09:35:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-HYrye4in8MrpN6HThiTRW1w8LswtA24qBDFIa9dEVtg="
-        }
-      ]
     }
   ]
 }

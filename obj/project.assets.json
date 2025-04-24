@@ -8509,23 +8509,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tomio\\.nuget\\packages\\": {},
+    "C:\\Users\\Fonok ur\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\dungeonMaster_final.csproj",
+      "projectUniqueName": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\dungeonMaster_final.csproj",
       "projectName": "dungeonMaster_final",
-      "projectPath": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\dungeonMaster_final.csproj",
-      "packagesPath": "C:\\Users\\tomio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\obj\\",
+      "projectPath": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\dungeonMaster_final.csproj",
+      "packagesPath": "C:\\Users\\Fonok ur\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\tomio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fonok ur\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -8551,8 +8551,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -8610,7 +8609,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

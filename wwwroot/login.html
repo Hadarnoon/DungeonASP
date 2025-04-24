@@ -59,14 +59,6 @@
     </style>
     <script>
         document.addEventListener('DOMContentLoaded', () => {
-            async function sha256Hash(password) {
-                const encoder = new TextEncoder();
-                const data = encoder.encode(password);
-                const hashBuffer = await crypto.subtle.digest('SHA-256', data);
-                const hashArray = Array.from(new Uint8Array(hashBuffer));
-                return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
-            }
-
             document.getElementById('loginForm').addEventListener('submit', async (e) => {
                 e.preventDefault();
 
@@ -78,8 +70,6 @@
                         throw new Error("You must fill out all fields");
                     }
 
-                    const hashedPassword = await sha256Hash(password);
-
                     const response = await fetch('http://localhost:7000/api/Players/login', {
                         method: 'POST',
                         headers: {
@@ -87,7 +77,7 @@
                         },
                         body: JSON.stringify({
                             Username: username,
-                            PasswordHash: hashedPassword
+                            PasswordHash: password
                         })
                     });
 

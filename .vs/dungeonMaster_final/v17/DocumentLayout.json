@@ -1,29 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\",
+  "WorkspaceRootPath": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|c:\\users\\tomio\\documents\\github\\dungeonasp\\wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|c:\\users\\fonok ur\\documents\\github\\dungeonasp\\wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|solutionrelative:wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|c:\\users\\tomio\\documents\\github\\dungeonasp\\wwwroot\\js\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|solutionrelative:wwwroot\\js\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|c:\\users\\tomio\\documents\\github\\dungeonasp\\wwwroot\\profile.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|solutionrelative:wwwroot\\profile.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|c:\\users\\tomio\\documents\\github\\dungeonasp\\wwwroot\\scoreboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|solutionrelative:wwwroot\\scoreboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|c:\\users\\tomio\\documents\\github\\dungeonasp\\wwwroot\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|c:\\users\\fonok ur\\documents\\github\\dungeonasp\\wwwroot\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|solutionrelative:wwwroot\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|c:\\users\\tomio\\documents\\github\\dungeonasp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|c:\\users\\fonok ur\\documents\\github\\dungeonasp\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|solutionrelative:controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|c:\\users\\fonok ur\\documents\\github\\dungeonasp\\wwwroot\\profile.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|solutionrelative:wwwroot\\profile.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|c:\\users\\fonok ur\\documents\\github\\dungeonasp\\wwwroot\\js\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|solutionrelative:wwwroot\\js\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|c:\\users\\fonok ur\\documents\\github\\dungeonasp\\wwwroot\\scoreboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|solutionrelative:wwwroot\\scoreboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|c:\\users\\fonok ur\\documents\\github\\dungeonasp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -34,85 +38,93 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "profile.html",
-              "DocumentMoniker": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\profile.html",
-              "RelativeDocumentMoniker": "wwwroot\\profile.html",
-              "ToolTip": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\profile.html",
-              "RelativeToolTip": "wwwroot\\profile.html",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAAAJEAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-22T09:37:54.893Z",
-              "EditorCaption": ""
+              "Title": "PlayersController.cs",
+              "DocumentMoniker": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\Controllers\\PlayersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlayersController.cs",
+              "ToolTip": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\Controllers\\PlayersController.cs",
+              "RelativeToolTip": "Controllers\\PlayersController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowFQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:25:37.165Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "scoreboard.html",
-              "DocumentMoniker": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\scoreboard.html",
-              "RelativeDocumentMoniker": "wwwroot\\scoreboard.html",
-              "ToolTip": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\scoreboard.html",
-              "RelativeToolTip": "wwwroot\\scoreboard.html",
-              "ViewState": "AgIAADEAAAAAAAAAAAAwwF0AAAABAAAAAAAAAA==",
+              "Title": "profile.html",
+              "DocumentMoniker": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\profile.html",
+              "RelativeDocumentMoniker": "wwwroot\\profile.html",
+              "ToolTip": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\profile.html",
+              "RelativeToolTip": "wwwroot\\profile.html",
+              "ViewState": "AQIAALoAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-20T09:43:21.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T09:37:54.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "scoreboard.html",
+              "DocumentMoniker": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\scoreboard.html",
+              "RelativeDocumentMoniker": "wwwroot\\scoreboard.html",
+              "ToolTip": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\scoreboard.html",
+              "RelativeToolTip": "wwwroot\\scoreboard.html",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-20T09:43:21.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "auth.js",
-              "DocumentMoniker": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\js\\auth.js",
+              "DocumentMoniker": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\js\\auth.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\auth.js",
-              "ToolTip": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\js\\auth.js",
+              "ToolTip": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\js\\auth.js",
               "RelativeToolTip": "wwwroot\\js\\auth.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-20T09:43:21.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T09:43:21.963Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "login.html",
-              "DocumentMoniker": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\login.html",
+              "DocumentMoniker": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\login.html",
               "RelativeDocumentMoniker": "wwwroot\\login.html",
-              "ToolTip": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\login.html",
+              "ToolTip": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\login.html",
               "RelativeToolTip": "wwwroot\\login.html",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAFQAAAAiAAAAAAAAAA==",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADwAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-04-20T09:43:21.964Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "register.html",
-              "DocumentMoniker": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\register.html",
+              "DocumentMoniker": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\register.html",
               "RelativeDocumentMoniker": "wwwroot\\register.html",
-              "ToolTip": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\register.html",
+              "ToolTip": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\register.html",
               "RelativeToolTip": "wwwroot\\register.html",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAHgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-04-20T09:43:21.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\index.html",
+              "DocumentMoniker": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\tomio\\Documents\\GitHub\\DungeonASP\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\index.html",
               "RelativeToolTip": "wwwroot\\index.html",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-20T09:43:21.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T09:43:21.968Z"
             }
           ]
         }
