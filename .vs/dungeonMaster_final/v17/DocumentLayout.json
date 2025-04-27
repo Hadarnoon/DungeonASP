@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|c:\\users\\fonok ur\\documents\\github\\dungeonasp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|c:\\users\\fonok ur\\documents\\github\\dungeonasp\\wwwroot\\admin_panel\\users.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|solutionrelative:wwwroot\\admin_panel\\users.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|c:\\users\\fonok ur\\documents\\github\\dungeonasp\\wwwroot\\js\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|solutionrelative:wwwroot\\js\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|c:\\users\\fonok ur\\documents\\github\\dungeonasp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29EEBAA8-0630-4E8B-9AFE-27D2AE6A1A40}|dungeonMaster_final.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,24 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "users.html",
-              "DocumentMoniker": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\users.html",
-              "RelativeDocumentMoniker": "wwwroot\\admin_panel\\users.html",
-              "ToolTip": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\users.html",
-              "RelativeToolTip": "wwwroot\\admin_panel\\users.html",
-              "ViewState": "AQIAADwAAAAAAAAAAAAwwA8BAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-27T12:34:08.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "mainPanel.html",
               "DocumentMoniker": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\mainPanel.html",
               "RelativeDocumentMoniker": "wwwroot\\admin_panel\\mainPanel.html",
@@ -75,12 +62,11 @@
               "RelativeToolTip": "wwwroot\\admin_panel\\mainPanel.html",
               "ViewState": "AQIAAPEAAAAAAAAAAAAAALIAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-27T11:42:23.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T11:42:23.481Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\index.html",
               "RelativeDocumentMoniker": "wwwroot\\admin_panel\\index.html",
@@ -88,12 +74,11 @@
               "RelativeToolTip": "wwwroot\\admin_panel\\index.html",
               "ViewState": "AQIAABQAAAAAAAAAAAAswGUAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-27T11:31:29.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T11:31:29.924Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PlayersController.cs",
               "DocumentMoniker": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\Controllers\\PlayersController.cs",
               "RelativeDocumentMoniker": "Controllers\\PlayersController.cs",
@@ -101,12 +86,11 @@
               "RelativeToolTip": "Controllers\\PlayersController.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAowCkAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T18:25:37.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T18:25:37.165Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "profile.html",
               "DocumentMoniker": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\profile.html",
               "RelativeDocumentMoniker": "wwwroot\\profile.html",
@@ -118,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "scoreboard.html",
               "DocumentMoniker": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\scoreboard.html",
               "RelativeDocumentMoniker": "wwwroot\\scoreboard.html",
@@ -126,12 +110,11 @@
               "RelativeToolTip": "wwwroot\\scoreboard.html",
               "ViewState": "AQIAAHUAAAAAAAAAAAAAAIsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-20T09:43:21.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T09:43:21.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "auth.js",
               "DocumentMoniker": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\js\\auth.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\auth.js",
@@ -143,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "login.html",
               "DocumentMoniker": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\login.html",
               "RelativeDocumentMoniker": "wwwroot\\login.html",
@@ -151,12 +134,11 @@
               "RelativeToolTip": "wwwroot\\login.html",
               "ViewState": "AQIAADcAAAAAAAAAAAAAAE0AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-20T09:43:21.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T09:43:21.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "register.html",
               "DocumentMoniker": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\register.html",
               "RelativeDocumentMoniker": "wwwroot\\register.html",
@@ -168,15 +150,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "wwwroot\\index.html",
               "ToolTip": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\index.html",
               "RelativeToolTip": "wwwroot\\index.html",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAIBAAAAAAAAAAAAABABAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-20T09:43:21.968Z"
+              "WhenOpened": "2025-04-20T09:43:21.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "users.html",
+              "DocumentMoniker": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\users.html",
+              "RelativeDocumentMoniker": "wwwroot\\admin_panel\\users.html",
+              "ToolTip": "C:\\Users\\Fonok ur\\Documents\\GitHub\\DungeonASP\\wwwroot\\admin_panel\\users.html",
+              "RelativeToolTip": "wwwroot\\admin_panel\\users.html",
+              "ViewState": "AQIAADwAAAAAAAAAAAAwwA8BAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-27T12:34:08.804Z",
+              "EditorCaption": ""
             }
           ]
         }
